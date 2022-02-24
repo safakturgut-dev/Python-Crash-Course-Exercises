@@ -1,1 +1,2 @@
-# Book-Python-Crash-Course-Exercises
+# Python-Crash-Course-Exercises
+My solutions of exercises in the book.

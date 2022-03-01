@@ -1,3 +1,4 @@
+# 5-7
 favorite_fruits = ['apple', 'orange', 'cherry', 'grapes', 'watermelon']
 
 if "orange" in favorite_fruits:
